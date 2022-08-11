@@ -6,7 +6,7 @@ I'm Frontend developer.
 <code> <img src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png" width="34px"> </code>
 <code> <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width="34px"> </code>
 <code> <img src="https://mpng.subpng.com/20181125/gos/kisspng-react-javascript-redux-vue-js-angular-javascript-jquery-5bfa71f29a9d93.7758622015431398266333.jpg" width="34px"> </code>
-<code> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="34px"> </code>
+<code> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="45px"> </code>
 <br />
 
 
