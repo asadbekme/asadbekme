@@ -1,7 +1,7 @@
 ### Hi, I'm Asadbek Rakhimov 
 I'm Frontend developer.
 
-## ⚡ Technologies
+## ⚡ Technologies:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=SASS)
