@@ -1,4 +1,4 @@
-### Hi, I'm Asadbek Rakhimov 
+### Hi, I'm Asadbek Rakhimov.
 I'm Frontend developer.
 
 ## ⚡ Technologies:
