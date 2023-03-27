@@ -13,6 +13,7 @@ I'm Frontend developer.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux-0B1121?style=flat-square&logo=redux)
+![Next JS](https://img.shields.io/badge/-NextJS-E3EAF7?style=flat-square&logo=nextjs)
 
 
 
