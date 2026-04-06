@@ -1,11 +1,11 @@
 <h1 align="center">Hey! I'm Asadbek 👋</h1>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Asadbek%20Rakhimov&width=800&height=200" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Asadbek%20Rakhimov&width=640&height=160" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Frontend+Engineer;React+%26+Next.js+Specialist;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Frontend+Engineer;React.js+%26+Next.js+Specialist;Building+Modern+Web+Apps" />
 </p>
 
 ---
@@ -33,11 +33,11 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,supabase" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,tailwind,mui,redux,supabase" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,postman,ai" />
 </p>
 
 ---
@@ -59,6 +59,9 @@
   </a>
   <a href="mailto:asadbekme2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/asadbekjs" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
