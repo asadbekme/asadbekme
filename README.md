@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Asadbek 👋</h1>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Asadbek&width=800&height=200" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Asadbek%20Rakhimov&width=800&height=200" />
 </p>
 
 <p align="center">
