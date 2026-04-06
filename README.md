@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,postman,ai" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,ai" />
 </p>
 
 ---
