@@ -1,47 +1,81 @@
-<div align="center">
-
-# Hey! I'm Asadbek 👋
-
-<img src="https://i.imgur.com/..." alt="Asadbek" width="200" style="border-radius: 50%;">
-
-</div>
-
-**Tashkent-based Frontend Engineer**  
-Crafting modern web and mobile apps with **React** & **Next.js**.  
-Exploring new technologies, building pixel-perfect UIs and delivering great user experiences.
-
-### About me
-- 🌍 Based in **Tashkent, Uzbekistan**
-- 🔥 Specialized in **React.js**, **Next.js**, TypeScript, Tailwind CSS
-- 🚀 Passionate about clean code, performance and beautiful interfaces
-- ☕ Love brewing coffee while debugging
-- 🏔️ Enjoy hiking and connecting with other developers
-
-### Languages and Tools
+<h1 align="center">Hey! I'm Asadbek 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Asadbek&width=800&height=200" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Frontend+Engineer;React+%26+Next.js+Specialist;Building+Modern+Web+Apps" />
 </p>
-
-### Let's connect!
-Feel free to drop me a line 📬
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asadbekme)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 ---
 
-*Made with ❤️ and lots of coffee in Tashkent*
+### 👨‍💻 About Me
+
+* 📍 Frontend Engineer from Uzbekistan
+* ⚛️ React.js & Next.js specialist
+* 🧠 Building modern, scalable web apps
+* 🎯 Focused on clean UI & performance
+* 🚀 Always learning new tools
+
+---
+
+### 🌐 Portfolio
+
+<p align="center">
+  <a href="https://asadbekjs.uz" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,supabase" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+### ⚡ Tech Stack
+
+* **Frontend:** React.js, Next.js, TypeScript, JavaScript
+* **State Management:** Redux Toolkit, TanStack Query
+* **Styling:** Tailwind CSS, Shadcn UI
+* **Backend & DB:** Supabase
+
+---
+
+### 📫 Contact Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/asadbek-rakhimov" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:asadbekme2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asadbekme&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=asadbekme&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  ⭐️ From <b>asadbekme</b>
+</p>
