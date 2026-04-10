@@ -14,7 +14,7 @@
 
 * 📍 Frontend Engineer from Uzbekistan
 * ⚛️ React.js & Next.js specialist
-* 🧠 Building modern, scalable web apps
+* 🧠 Building modern, scalable apps
 * 🎯 Focused on clean UI & performance
 * 🚀 Always learning new tools
 
