@@ -12,11 +12,11 @@
 
 ### 👨‍💻 About Me
 
-* 📍 Frontend Engineer from Uzbekistan
-* ⚛️ React.js & Next.js specialist
-* 🧠 Building modern, scalable apps
-* 🎯 Focused on clean UI & performance
-* 🚀 Always learning new tools
+* 💼 Frontend Engineer with 3+ years of hands-on experience delivering scalable, production-grade web applications
+* ⚡ Expertise in React.js, Next.js, TypeScript, and modern frontend architecture
+* 🌱 Expanding knowledge in React Native and backend development with Python
+* 🧠 Passionate about performance optimization, maintainable UI systems, and clean architectural patterns
+* 💬 Open to discussions about React, TypeScript, Next.js, Python, and frontend system design
 
 ---
 
@@ -33,7 +33,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,tailwind,mui,redux,supabase" />
+  <img src="https://skillicons.dev/icons?i=js,python,ts,react,vite,nextjs,tailwind,mui,redux,supabase" />
 </p>
 
 <p align="center">
