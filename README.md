@@ -46,8 +46,8 @@
 
 * **Frontend:** React.js, Next.js, TypeScript, JavaScript
 * **State Management:** Redux Toolkit, TanStack Query
-* **Styling:** Tailwind CSS, Shadcn UI
-* **Backend & DB:** Supabase
+* **Styling:** Tailwind CSS, Shadcn UI, Ant Design
+* **Backend & DB:** Supabase, PostgreSQL, Python
 
 ---
 
